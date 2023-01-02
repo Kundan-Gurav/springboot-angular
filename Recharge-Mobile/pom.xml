@@ -8,10 +8,10 @@
 		<version>2.7.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.Account-Mobile</groupId>
-	<artifactId>Account-Mobile</artifactId>
+	<groupId>com.Recharge-Mobile</groupId>
+	<artifactId>Recharge-Mobile</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Account-Mobile</name>
+	<name>Recharge-Mobile</name>
 	<description>Account-Mobile</description>
 	<properties>
 		<java.version>11</java.version>
@@ -37,14 +37,6 @@
 			<artifactId>mysql-connector-j</artifactId>
 			<scope>runtime</scope>
 		</dependency>
-	
-<dependency>
-<groupId>io.springfox</groupId>
-<artifactId>springfox-boot-starter</artifactId>
-<version>3.0.0</version>
-</dependency>
-
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
